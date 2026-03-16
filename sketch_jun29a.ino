@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 #include <Update.h>
 
-const char* ssid = "vivo 1938";
-const char* password = "logan@2104";
+const char* ssid = "your network name";
+const char* password = "your password";
 
 const int ledPin = 2; // GPIO pin for the LED
 
